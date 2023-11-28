@@ -37,7 +37,7 @@ Git tracks changes to your project as you save.
 ---
 Type your name below   
 
-> What's your name? :  prince jeff muturi
+> What's your name? :  prince jeff  muturi
 And save the file ( ctrl + s )
 
 --- 
